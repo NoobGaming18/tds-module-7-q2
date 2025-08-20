@@ -1,12 +1,27 @@
----
+<!-- ---
 marp : true
-title : My First Marp Presentation
-author : 23f3003751@ds.study.iitm.ac.in
 theme : uncover
 class : invert
-paginate: true
 ---
 
 # Swagatham! 
 By 23f3003751@ds.study.iitm.ac.in
 
+--- -->
+---
+marp: true
+title: My Presentation
+author: Your Name
+theme: default
+paginate: true
+---
+
+# First Slide
+
+Content goes here
+
+---
+
+## Second Slide
+
+More content
