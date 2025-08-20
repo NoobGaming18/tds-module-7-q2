@@ -1,17 +1,10 @@
 ---
 marp: true
-title: My Presentation
-author: Your Name
 theme: default
 paginate: true
+size: 16:9
 ---
 
-# First Slide
+# Title Slide
 
-Content goes here
-
----
-
-## Second Slide
-
-More content
+Subtitle or presenter
